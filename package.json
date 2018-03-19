@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/KaguilarA/arquitecturaBasicaProyectoWeb1.git"
+    "url": "https://github.com/jorgegmez/arquitectura.git"
   },
   "keywords": [
     "MEAN",
@@ -18,15 +18,14 @@
     "NODEJS"
   ],
   "author": {
-    "name": "Kevin Aguilar",
-    "email": "kaguilara@ucenfotec.ac.cr",
-    "url": "https://twitter.com/kaguilara_"
+    "name": "Jorge Gomez",
+    "email": "jgomezm@ucenfotec.ac.cr"
   },
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/KaguilarA/arquitecturaBasicaProyectoWeb1/issues"
+    "url": "https://github.com/jorgegmez/arquitectura/issues"
   },
-  "homepage": "https://github.com/KaguilarA/arquitecturaBasicaProyectoWeb1#readme",
+  "homepage": "hhttps://github.com/jorgegmez/arquitectura/blob/master/readme.md",
   "devDependencies": {
     "browser-sync": "^2.23.6",
     "gulp": "^3.9.1",
